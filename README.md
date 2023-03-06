@@ -18,6 +18,11 @@ The dye must be surronded by the wool of the same color. Redying wool into it's 
 
 # License
 
-This is an extended version of a datapack by [JedyJeffatHype at Planet Minecraft](https://www.planetminecraft.com/data-pack/8-wool-per-dye/).
+This project evolved form the datapack created by [JedyJeffatHype at Planet Minecraft](https://www.planetminecraft.com/data-pack/8-wool-per-dye/).
 
-I am really not sure how licensing works in this case(I am a newbie), but it shan't stop me from developing the pack.
+Though the only thing left untouched from that pack is pack.png file, I am really not sure how licensing works in this case(I am a newbie), so let's just say I am not responisble for any consequences of anybody's use of this datapack.
+
+# Todo
+
+Advancements logic still need some work, but I am not willing to do anything about it for now.
+The pack format that is used at the moment is probably outdated, but seems to work just fine, so I have not touched it either.
