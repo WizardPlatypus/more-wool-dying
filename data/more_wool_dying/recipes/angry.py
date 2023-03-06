@@ -85,9 +85,13 @@ def fill_template(color_id):
     return template
 
 def main():
-    color_id = (int(argv[1]) % len(__colors)) if len(argv) > 1 else 0
-    print(fill_template(color_id))
+    for color_id in range(len(__colors)):
+        color = __colors[color_id]
+        content = fill_template(color_id)
 
+        file = open(f"{color}_wool.json", "w")
+        file.write(content)
+        file.close()
 
 if __name__ == "__main__":
     main()

@@ -20,15 +20,15 @@
             {"item": "minecraft:magenta_wool"},
             {"item": "minecraft:pink_wool"},
             {"item": "minecraft:white_wool"},
-            {"item": "minecraft:light_gray_wool"},
-            {"item": "minecraft:gray_wool"}
+            {"item": "minecraft:gray_wool"},
+            {"item": "minecraft:black_wool"}
         ],
         "O": {
-            "item": "minecraft:black_dye"
+            "item": "minecraft:light_gray_dye"
         }
     },
     "result": {
-        "item": "minecraft:black_wool",
+        "item": "minecraft:light_gray_wool",
         "count": 8
     },
     "group": "more_wool_dying"
