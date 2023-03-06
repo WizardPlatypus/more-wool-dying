@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "#R#",
+      "###"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:green_wool"
+      },
+      "R": {
+          "item": "minecraft:purple_dye"
+      }
+  },
+  "result": {
+      "item": "minecraft:purple_wool",
+      "count": 8
+  },
+  "group": "wool"
+}
