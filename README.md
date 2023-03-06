@@ -14,7 +14,7 @@ WWW
 
 where W stands for wool and D stand for dye.
 
-The dye must be surronded by the wool of the same color. Redying wool into it's own color is not supported.
+The dye can be surronded by wool of any color, except redying wool into it's own color is not supported.
 
 # License
 
