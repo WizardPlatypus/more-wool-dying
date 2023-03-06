@@ -1,3 +1,5 @@
+![зображення](https://user-images.githubusercontent.com/65903794/223078743-de940b8b-cc29-4211-a7b3-6c6d4e56318b.png)
+
 # What is this project?
 
 This is a minecraft datapack that adds recipes for redying wool.
@@ -24,5 +26,9 @@ Though the only thing left untouched from that pack is pack.png file, I am reall
 
 # Todo
 
-Advancements logic still need some work, but I am not willing to do anything about it for now.
-The pack format that is used at the moment is probably outdated, but seems to work just fine, so I have not touched it either.
+* Advancements logic still need some work, but I am not willing to do anything about it for now.
+* The pack format that is used at the moment is probably outdated, but seems to work just fine, so I have not touched it either.
+
+# How to use the datapack?
+
+Download this code as a zip archive and place it in the datapacks folder of your world... Done!
