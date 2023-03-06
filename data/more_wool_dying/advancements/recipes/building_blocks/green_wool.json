@@ -2,47 +2,26 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "more_wool_dying:green2/brown_wool",
-      "more_wool_dying:green2/red_wool",
-      "more_wool_dying:green2/orange_wool",
-      "more_wool_dying:green2/yellow_wool",
-      "more_wool_dying:green2/lime_wool",
-      "more_wool_dying:green2/cyan_wool",
-      "more_wool_dying:green2/light_blue_wool",
-      "more_wool_dying:green2/blue_wool",
-      "more_wool_dying:green2/purple_wool",
-      "more_wool_dying:green2/magenta_wool",
-      "more_wool_dying:green2/pink_wool",
-      "more_wool_dying:green2/white_wool",
-      "more_wool_dying:green2/light_gray_wool",
-      "more_wool_dying:green2/gray_wool",
-      "more_wool_dying:green2/black_wool"
+      "more_wool_dying:green_wool"
     ]
   },
   "criteria": {
-    "has_white_wool": {
+    "has_green_wool": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:white_wool"
+              "minecraft:green_wool"
             ]
           }
         ]
-      }
-    },
-    "has_the_recipe": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "minecraft:green_wool"
       }
     }
   },
   "requirements": [
     [
-      "has_white_wool",
-      "has_the_recipe"
+      "has_green_wool"
     ]
   ]
 }
